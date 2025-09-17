@@ -1,16 +1,51 @@
-## Hi there 👋
+<br clear="both">
 
-<!--
-**ErikaSrt/ErikaSrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="223" src="https://i.pinimg.com/736x/d5/97/e4/d597e427fdf7afa51dd4d3b224a296e1.jpg"  />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="both">
+
+<h2 align="center">Wellcome to my github 🖤</h2>
+
+###
+
+<br clear="both">
+
+<h3 align="center">👩‍💻  About Me</h3>
+
+###
+
+<br clear="both">
+
+<p align="center">Meu nome é Erika Sartorelli 👩‍💻<br>  <br> Estou cursando Eng. de Software no Centro Universitário da Fundação Assis Gurgacz, e minha intenção é atuar na área onde possa unir tecnologia e desafio com o objetivo de desenvolver soluções práticas. eu sou movido pela busca de aprender e aplicar novas habilidades em projetos que sejam efetivos e funcionais.</p>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="35" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="51" height="35" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="51" height="35" alt="instagram logo"  />
+</div>
+
+###
+
+<h2 align="center">My Skills e Tools</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="37" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="37" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="37" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="37" alt="spring logo"  />
+</div>
+
+###
