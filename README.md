@@ -1,14 +1,25 @@
-<br clear="both">
 
+<!-- FOTO CENTRAL -->
 <div align="center">
-  <img height="223" src="https://i.pinimg.com/736x/d5/97/e4/d597e427fdf7afa51dd4d3b224a296e1.jpg"  />
+ <img width="500" height="660" alt="Image" src="https://github.com/user-attachments/assets/49a46513-4cbf-46c0-882f-1df1cfbcd2d6" 
+       alt="Foto de Erika Sartorelli"
+       height="250"
+       style="border-radius: 20px; box-shadow: 0px 0px 10px rgba(0,0,0,0.4);" />
 </div>
 
-###
+<br>
 
-<br clear="both">
 
-<h2 align="center">Wellcome to my github 🖤</h2>
+<!-- BLOCO DE CÓDIGO PERSONALIZADO -->
+<h3 align="center" style="font-family: monospace;">
+  &nbsp;&nbsp;IO.println("Hello and welcome to my Github! 🖤");<br>
+</h3>
+
+<!-- LINHA DIVISÓRIA DECORATIVA -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+</p>
+
 
 ###
 
